@@ -1,0 +1,18 @@
+ * {font-family: sans-serif;}  
+   body {margin: 10px; padding: 0; background-color: #ecce96; box-sizing: border-box;}
+   
+
+    header { color: #eaea76; text-align: right;
+	border-bottom: 3px solid black;}
+	
+	
+	h5 {text-align: left; color: black;}
+		
+	.straight {display: inline; text-align: right;}
+	.i1 {background-color: #a4a48e; font-size: 30px;}
+	.i2 {background-color: #828266; font-size: 30px;}
+	.i3 {background-color: #84c44f; font-size: 30px;}
+
+	li {background-color: #a4a48e; font-size: 30px;}
+
+	
