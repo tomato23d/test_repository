@@ -30,7 +30,8 @@ function showResponse(event){
     console.log(event);
    
     var entry = month.value + "  " + day.value;
-    submissionResponse.textContent = entry;
+    //submissionResponse.textContent = entry;
+    submissionResponse.textContent = "we have month of "+ month.value;
 
     var today = day.value
     localStorage.setItem('monthtoday', month.value);
