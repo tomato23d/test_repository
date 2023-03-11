@@ -1,3 +1,9 @@
+var string1 = "an2";
+var newS = string1.charAt(2);
+var newew = 5-newS
+console.log(newew);
+
+
 const fruits = ["apple", "banana", "lemon"];
 
 

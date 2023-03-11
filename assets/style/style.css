@@ -13,6 +13,10 @@
 	.i2 {background-color: #828266; font-size: 30px;}
 	.i3 {background-color: #84c44f; font-size: 30px;}
 
-	li {background-color: #a4a48e; font-size: 30px;}
+	li, p {background-color: #a4a48e; font-size: 30px;}
 
-	
+	button { font-size: 30px;}
+	#question {display: flex;
+				justify-content: space-evenly;
+
+	}

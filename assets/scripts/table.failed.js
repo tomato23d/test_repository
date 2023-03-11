@@ -1,6 +1,7 @@
 var gTable = document.getElementById("genTable");
 
-
+gTable.setAttribute("style", "font-size : 50px; font-weight : bold");
+gTable.style.color ="green";
 
 function generateTable (){
     const tbl =document.createElement("table");
